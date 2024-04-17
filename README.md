@@ -3,9 +3,7 @@ Dashboard - Data Visualization ; Tome (PPT) - Business Advices
 
 ## Table of Content
 * [About Olist](#About-Olist)
-* [Features](#Features)
 * [Data](#Data)
-* [Data Preperation](#Data-Preperation)
 * [Technologies](#Technologies)
 * [Reference & Link](#Reference-&-Link)
 
@@ -20,7 +18,6 @@ The Brazilian ecommerce public dataset of orders (from 2016 to 2018) has informa
 ![image](https://github.com/MarcoCTF/final_project/assets/87473385/337cd5a3-8042-402a-bdb6-4d860c070b3a)\
 *Data model as provided in Kaggle*
 
-## Data Preperation
 
 ## Technologies
 Jupyter Notebook (.ipynb)\
