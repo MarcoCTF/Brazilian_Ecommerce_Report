@@ -1,0 +1,11 @@
+![0_Olist_Overview](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/5e67d68e-4843-4c26-8fe5-754ef5ee9c0c)\
+![1_Olist_GMV](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/92ce3c22-9689-4035-9901-f4389e55afbe)\
+![2_Olist_GMV_detail](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/9b7e512b-c70f-43cd-8ac6-d98a0deaf6d7)\
+![3_Olist_State](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/86af16a5-8fea-4fda-bdb4-26defe544182)\
+![4_Olist_Partner](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/f87b649c-6b3b-4809-b700-8d5eff2ae1d2)\
+![5_Olist_Product](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/a556ba6e-1d30-4514-aaba-7575268fa9ad)\
+![6_Olist_Customer](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/e948eda3-f62f-47d1-83b8-a29b86e5945e)\
+![7_Olist_Rating](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/f0500870-ca98-47fe-98da-98d52d50b44a)\
+![8_Olist_LowRating](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/9b3621a5-6394-4d11-82b6-ff729a713de4)\
+![9_Olist_Delivery](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/02e6107e-842c-42c9-9695-a4ab9c3a1e05)\
+![10_Olist_Freight](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/3a9e5107-8c38-48b2-8ef7-49a26e707f5f)\
