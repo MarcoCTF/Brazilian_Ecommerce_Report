@@ -8,4 +8,4 @@
 ![7_Olist_Rating](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/f0500870-ca98-47fe-98da-98d52d50b44a)\
 ![8_Olist_LowRating](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/9b3621a5-6394-4d11-82b6-ff729a713de4)\
 ![9_Olist_Delivery](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/02e6107e-842c-42c9-9695-a4ab9c3a1e05)\
-![10_Olist_Freight](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/3a9e5107-8c38-48b2-8ef7-49a26e707f5f)\
+![10_Olist_Freight](https://github.com/MarcoCTF/Brazilian_Ecommerce_Report/assets/87473385/3a9e5107-8c38-48b2-8ef7-49a26e707f5f)
